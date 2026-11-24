@@ -1,0 +1,18 @@
+{
+  "type": "taosi:drawing",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "taosi:taosi_ink"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "taosi:talisman_barrier_1",
+    "count": 1
+  }
+}

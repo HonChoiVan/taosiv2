@@ -1,0 +1,18 @@
+{
+  "type": "taosi:drawing",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "taosi:taosi_ink"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "taosi:talisman_explosion_1",
+    "count": 1
+  }
+}
